@@ -1,2 +1,3 @@
-# zhuihu
-selenium爬取知乎数据
+# selenium爬取知乎数据
+用selenium自动化爬取以大语言模型为主题的知乎问答数据
+在爬取时用Google开新的端口，但为了多爬取还需要手动滚动
